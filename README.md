@@ -1,5 +1,6 @@
-## Hi there 👋
+# 🎇​Loris 
 
+**'Full stack developper'**
 <!--
 **MegatronUwU/MegatronUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+
+I’m just a guy learning the ropes of full-stack development and building up my skills one project at a time
+
+I work across both front-end and back-end, and I find it highly valuable to explore and use different technologies to deliver better solutions.
+
+Here on GitHub, you’ll find projects showcasing my experience with various frameworks, programming languages, and tools.
