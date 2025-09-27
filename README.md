@@ -47,4 +47,4 @@ Here on GitHub, you’ll find projects showcasing my experience with various fra
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegatronUwU&show_icons=true&theme=gruvbox)
+![MegatronUwU GitHub stats](https://github-readme-stats.vercel.app/api?username=MegatronUwU&show_icons=true&theme=dark)
