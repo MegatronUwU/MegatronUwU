@@ -1,4 +1,4 @@
-# 🎇​Loris 
+# 🎇​Loris Galland
 
 **`Full stack developper`**
 
